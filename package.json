@@ -1,7 +1,11 @@
 {
-  "name": "image-manipulation-tests",
+  "name": "image-manipulation-node",
   "description": "Image Manipulation with GM and Jimp Package",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh:/git@github.com:FelipeBarrosCruz/image-manipulation-node.git"
+  },
   "author": "FelipeBarrosCruz <felipe.barros.pt@gmail.com>",
   "main": "index.js",
   "license": "MIT",
